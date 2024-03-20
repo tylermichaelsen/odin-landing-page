@@ -1,5 +1,5 @@
 * {
-    border: 1px solid red;
+    
     font-family: 'Roboto';
 }
 
@@ -77,5 +77,7 @@ ul {
     color: #F9FAf8;
     width: 100px;
     height: 32px;
-    border-radius: 5%;
+    border-radius: 12px;
+    border: none;
+    font-weight: bold;
 }
