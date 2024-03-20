@@ -23,6 +23,7 @@ body {
 .header-link {
     font-size: 18px;
     color: #E5E7EB;
+    text-decoration: none;
 }
 
 ul{
