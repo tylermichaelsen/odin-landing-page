@@ -36,6 +36,7 @@ ul {
 .hero {
     background-color: #1F2937;
     padding: 0px 15%;
+    padding-bottom: 80px;
 }
 
 .hero-content {
