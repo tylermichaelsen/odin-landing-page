@@ -10,6 +10,8 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #1F2937;
+    
 }
 
 ul{
