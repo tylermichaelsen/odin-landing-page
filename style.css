@@ -27,7 +27,7 @@ body {
     text-decoration: none;
 }
 
-ul{
+ul {
     display: flex;
     padding: 0px;
     gap: 16px;
