@@ -9,9 +9,10 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-around;
     align-items: center;
     background-color: #1F2937;
+    margin-bottom: 48px;
+    justify-content: space-between;
 }
 
 .header-logo {
@@ -34,10 +35,10 @@ ul {
 
 .hero {
     background-color: #1F2937;
+    padding: 0px 15%
 }
 
 .hero-left {
-
 }
 
 .hero-right {
@@ -46,6 +47,7 @@ ul {
 
 .hero-main-text {
     color: #F9FAf8;
+    margin: 0px;
 }
 
 .hero-second-text {
