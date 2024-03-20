@@ -59,6 +59,8 @@ ul {
 .hero-main-text {
     color: #F9FAf8;
     margin: 0px;
+    font-size: 48px;
+    font-weight: bolder;
 }
 
 .hero-second-text {
