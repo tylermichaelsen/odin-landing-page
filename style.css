@@ -12,7 +12,6 @@ body {
     justify-content: space-around;
     align-items: center;
     background-color: #1F2937;
-    
 }
 
 .header-logo {
@@ -34,7 +33,7 @@ ul {
 }
 
 .hero {
-
+    background-color: #1F2937;
 }
 
 .hero-left {
@@ -42,13 +41,17 @@ ul {
 }
 
 .hero-right {
-    
+
 }
 
 .hero-main-text {
-
+    color: #F9FAf8;
 }
 
 .hero-second-text {
+    color: #E5E7EB;
+}
 
+.placeholder {
+    color: #E5E7EB;
 }
