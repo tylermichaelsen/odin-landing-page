@@ -38,8 +38,12 @@ ul {
     padding: 0px 15%;
 }
 
+.hero-content {
+    display: flex;
+}
+
 .hero-left {
-    
+
 }
 
 .hero-right {
