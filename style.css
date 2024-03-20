@@ -1,0 +1,9 @@
+* {
+    border: 1px solid red;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
