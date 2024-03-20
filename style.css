@@ -1,5 +1,5 @@
 * {
-    
+    border: 1px solid red;
     font-family: 'Roboto';
 }
 
@@ -43,11 +43,10 @@ ul {
 }
 
 .hero-left {
-    width: 50%;
+    
 }
 
 .hero-right {
-    width:50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,6 +69,11 @@ ul {
 
 .placeholder {
     color: #E5E7EB;
+    width: 400px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero-signup {
