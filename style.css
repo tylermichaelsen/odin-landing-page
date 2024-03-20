@@ -71,3 +71,11 @@ ul {
 .placeholder {
     color: #E5E7EB;
 }
+
+.hero-signup {
+    background-color: #3882f6;
+    color: #F9FAf8;
+    width: 100px;
+    height: 32px;
+    border-radius: 5%;
+}
