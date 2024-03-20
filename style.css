@@ -1,5 +1,5 @@
 * {
-    border: 1px solid red;
+    
     font-family: 'Roboto';
 }
 
@@ -63,6 +63,7 @@ ul {
 .hero-second-text {
     color: #E5E7EB;
     font-size: 18px;
+    margin: 0px;
 }
 
 .placeholder {
@@ -83,4 +84,5 @@ ul {
     border-radius: 12px;
     border: none;
     font-weight: bold;
+    margin-top: 12px
 }
