@@ -19,6 +19,11 @@ body {
     color: #F9FAf8
 }
 
+.header-link {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 ul{
     padding: 0px;
 }
