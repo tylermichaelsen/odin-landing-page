@@ -43,16 +43,13 @@ ul {
 }
 
 .hero-left {
-    
+
 }
 
 .hero-right {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #8f8f8f;
-    height: 180px;
-    width: 400px;
 }
 
 .hero-main-text {
@@ -74,6 +71,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #8f8f8f;
 }
 
 .hero-signup {
