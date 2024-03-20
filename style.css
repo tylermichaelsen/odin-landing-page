@@ -17,7 +17,8 @@ body {
 
 .header-logo {
     font-size: 24px;
-    color: #F9FAf8
+    color: #F9FAf8;
+    font-weight: bold;
 }
 
 .header-link {
