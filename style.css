@@ -1,5 +1,5 @@
 * {
-    
+    border: 1px solid red;
     font-family: 'Roboto';
 }
 
@@ -86,4 +86,28 @@ ul {
     border: none;
     font-weight: bold;
     margin-top: 12px
+}
+
+.information {
+
+}
+
+.information-header {
+
+}
+
+.information-boxes {
+
+}
+
+.information-box {
+
+}
+
+.box {
+
+}
+
+.information-caption {
+    
 }
