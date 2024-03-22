@@ -131,6 +131,8 @@ ul {
 
 .quote-section {
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote {
