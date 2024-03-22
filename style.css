@@ -133,10 +133,7 @@ ul {
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
-}
-
-.quote-box {
-    margin: 0px 15%
+    padding: 5% 20%
 }
 
 .quote {
@@ -144,9 +141,13 @@ ul {
     font-weight:300;
     font-size: 36px;
     font-style: italic;
+    margin: 0;
 }
 
 .quote-author {
     font-weight: bold;
-    font-size: 16px;
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0;
 }
