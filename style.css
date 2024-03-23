@@ -174,5 +174,6 @@ ul {
 }
 
 .call-to-action-button {
-
+    width: 100px;
+    height: 32px;
 }
