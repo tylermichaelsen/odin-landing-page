@@ -155,6 +155,7 @@ ul {
 .call-to-action-container {
     background-color: #3882f6;
     margin: 10%;
+    display: flex;
 }
 
 .call-to-action-text {
