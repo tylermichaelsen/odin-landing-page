@@ -170,6 +170,8 @@ ul {
 
 .call-to-action-maintext {
     margin: 0;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .call-to-action-subtext {
