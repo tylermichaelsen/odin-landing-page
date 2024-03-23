@@ -156,6 +156,7 @@ ul {
     background-color: #3882f6;
     margin: 10%;
     display: flex;
+    justify-content: space-around;
 }
 
 .call-to-action-text {
