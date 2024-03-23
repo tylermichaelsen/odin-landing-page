@@ -162,14 +162,15 @@ ul {
 .call-to-action-text {
     display: flex;
     flex-direction: column;
+    margin: 50px;
 }
 
 .call-to-action-maintext {
-
+    margin: 0;
 }
 
 .call-to-action-subtext {
-
+    margin: 0;
 }
 
 .call-to-action-button {
