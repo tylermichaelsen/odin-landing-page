@@ -197,3 +197,6 @@ ul {
     text-align: center;
     padding: 12px;
 }
+button {
+    cursor: pointer;
+}
