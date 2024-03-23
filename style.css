@@ -119,13 +119,13 @@ ul {
     height: 140px;
     border: 3px solid #3882f6;
     border-radius: 12px;
-    margin: 16px
+    margin: 16px;
 }
 
 .information-caption {
     width: 140px;
     margin: 0px;
-    padding:0px;
+    padding: 0px;
     color: #555555;
 }
 
@@ -133,7 +133,7 @@ ul {
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
-    padding: 5% 20%
+    padding: 5% 20%;
 }
 
 .quote {
@@ -154,7 +154,7 @@ ul {
 
 .call-to-action-container {
     background-color: #3882f6;
-    margin:10%
+    margin: 10%;
 }
 
 .call-to-action-text {
